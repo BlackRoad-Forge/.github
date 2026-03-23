@@ -1,20 +1,19 @@
 # BlackRoad-Forge
 
-**Build tools and CI/CD**
+**Forks and experiments** — Part of the BlackRoad OS ecosystem.
 
-Part of [BlackRoad OS](https://blackroad.io) — sovereign infrastructure built from bare metal up.
+> 18 orgs · 20 domains · 200 agents · Sovereign infrastructure
+
+305 public repositories | [blackroad.io](https://blackroad.io) | [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+## Key Repositories
+
+- [.github](https://github.com/BlackRoad-Forge/.github) — Organization profile and governance for BlackRoad-Forge[0:60]
+- [blackroad-forge.github.io](https://github.com/BlackRoad-Forge/blackroad-forge.github.io) — BlackRoad-Forge — BlackRoad OS[0:60]
+- [RoadPolis](https://github.com/BlackRoad-Forge/RoadPolis) — SimCity in the browser — deploy as network dashboard on blackroad.io[0:60]
+- [ai-town](https://github.com/BlackRoad-Forge/ai-town) — A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.[0:60]
+- [blackroad-desktop-app](https://github.com/BlackRoad-Forge/blackroad-desktop-app) — BlackRoad Desktop — Cross-platform Electron app with fleet monitoring, deploy management, system tray, IPC handlers, and real-time Pi node health checks. macOS/Windows/Linux.[0:60]
 
 ---
 
-| | |
-|---|---|
-| **Parent** | [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) |
-| **Website** | [blackroad.io](https://blackroad.io) |
-| **Search** | [search.blackroad.io](https://search.blackroad.io) |
-| **Org Page** | [blackroad-forge.github.io](https://blackroad-forge.github.io) |
-
----
-
-> Built by [Alexa Amundson](https://blackroad.me). Delaware C-Corp. Founded November 2025.
-> 
-> 23 orgs · 2,280+ repos · 29 languages · 7 nodes · 52 TOPS
+Proprietary — BlackRoad OS, Inc. All rights reserved.
