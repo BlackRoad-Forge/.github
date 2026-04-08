@@ -4,7 +4,7 @@
 
 **The experimental lab powering BlackRoad OS, Inc. and RoadWorld.**
 
-485 repos. Prototypes, game engines, pixel worlds, city simulators, OS kernels, AI tools, and the raw creative material that becomes BlackRoad products.
+485+ repos. Prototypes, game engines, pixel worlds, city simulators, OS kernels, AI tools, and the raw creative material that becomes BlackRoad products.
 
 ---
 
@@ -14,13 +14,13 @@ Every experiment here feeds into **[RoadWorld](https://roadworld.blackroad.io)**
 
 | World Engine | What It Powers |
 |---|---|
-| **City Builders** | RoadCity2K, RoadIsoCity, RoadCityDreamer, Grand Road Auto |
+| **City Builders** | Road3DCity, CubeWorld, Grand Road Auto, RoadCity2K |
 | **Pixel Worlds** | RoadPixelWorkplace, RoadBitOffice, RoadSquadPod, RoadSpriteCity |
-| **Simulation Engines** | RoadFarmSim, RoadUrbanSim, RoadDroneSim, RoadTraffic |
-| **Game Frameworks** | RoadGodot, RoadPhaser, RoadNotBlox, RoadCraft |
-| **AI Agent Offices** | RoadAgentOffice, RoadClaudeOffice, RoadOfficeRun, RoadVirtualOffice |
-| **World Generation** | RoadWorldGen, RoadWorldBuilding, RoadMapGen, RoadCityDreamer |
-| **Isometric Worlds** | RoadIsoNYC, RoadIsoCity-JS, RoadIsoCitySim, RoadIsoMinecraft |
+| **Simulation Engines** | RoadFarmSim, RoadUrbanSim, RoadTraffic, SolidSpace |
+| **Game Frameworks** | Pixelorama, RoadCraft, RoadPhaser, Grand-Road-Auto-JS |
+| **AI Agent Offices** | RoadAgentOffice, RoadClaudeOffice, RoadVirtualOffice |
+| **World Generation** | RoadWorldGen, RoadWorldBuilding, Road3D, RoadWorldJS |
+| **VR / 3D** | VRWorldToolkit, UnityLibrary, RoadVRToolkit |
 
 → **[roadworld.blackroad.io](https://roadworld.blackroad.io)**
 
@@ -32,11 +32,11 @@ Forge is the engine room for **[BlackRoad OS](https://os.blackroad.io)** — the
 
 | OS Layer | What It Contains |
 |---|---|
-| **OS Kernels & Research** | RoadSerenity, RoadRedox, RoadSkift, RoadReactOS, RoadRavynOS |
-| **Runtime & CLI** | blackroad-cli, blackroad-os, RoadOS-Core, blackroad-scripts |
-| **AI Agents & Infra** | blackroad-agents, blackroad-operator, RoadLucidia, blackroad-ai |
-| **Deployment & Edge** | blackroad-deploy, blackroad-cloud, blackroad-container, blackroad-api |
-| **Memory & Codex** | RoadCodexInfinity, RoadCodexRunner, RoadContextBridge, RoadRecall |
+| **OS Kernels & Research** | RoadSerenity, RoadSkift, RoadToaruOS, BlackRoad-Operating-System |
+| **Runtime & CLI** | blackroad-cli, blackroad-core, blackroad-scripts, blackroad-os |
+| **AI Agents & Infra** | blackroad-agents, blackroad-operator, blackroad-ai, BR-Claude-Monitoring-Forge |
+| **Deployment & Edge** | blackroad-deploy, CloudflareRoad, blackroad-container, BlackRoad-Infinity |
+| **Memory & Codex** | RoadCodexInfinity, RoadCodexRunner, RoadContextBridge, BR-Rag-Fork |
 
 → **[os.blackroad.io](https://os.blackroad.io)**
 
@@ -44,44 +44,45 @@ Forge is the engine room for **[BlackRoad OS](https://os.blackroad.io)** — the
 
 ## 🛣️ The 18 Canonical Products
 
-| Product | Live URL | Role in Forge |
+| Product | Live URL | Agent |
 |---|---|---|
-| BlackRoad OS | [os.blackroad.io](https://os.blackroad.io) | Platform shell — Forge feeds the OS layer |
-| RoadWorld | [roadworld.blackroad.io](https://roadworld.blackroad.io) | World engine — Forge IS RoadWorld R&D |
-| RoadTrip | [roadtrip.blackroad.io](https://roadtrip.blackroad.io) | Agent convoy — Forge tests agent patterns |
-| OfficeRoad | [officeroad.blackroad.io](https://officeroad.blackroad.io) | Live office — pixel office prototypes here |
-| RoadCode | [roadcode.blackroad.io](https://roadcode.blackroad.io) | Editor — IDE experiments in Forge |
-| RoadChat | [chat.blackroad.io](https://chat.blackroad.io) | Direct AI chat |
-| Roadie | [tutor.blackroad.io](https://tutor.blackroad.io) | AI tutor |
-| BackRoad | [social.blackroad.io](https://social.blackroad.io) | Social feed |
-| RoadBook | [roadbook.blackroad.io](https://roadbook.blackroad.io) | Publisher |
-| RoadWork | [roadwork.blackroad.io](https://roadwork.blackroad.io) | Business tools |
-| CarKeys | [carkeys.blackroad.io](https://carkeys.blackroad.io) | Auth & vault |
-| CarPool | [carpool.blackroad.io](https://carpool.blackroad.io) | Model router |
-| RoadChain | [roadchain.blackroad.io](https://roadchain.blackroad.io) | Blockchain ledger |
-| RoadCoin | [roadcoin.blackroad.io](https://roadcoin.blackroad.io) | Token economy |
-| BlackBoard | [blackboard.blackroad.io](https://blackboard.blackroad.io) | Analytics |
-| RoadView | [search.blackroad.io](https://search.blackroad.io) | Search engine |
-| OneWay | [oneway.blackroad.io](https://oneway.blackroad.io) | Data export |
-| RoadSide | [roadside.blackroad.io](https://roadside.blackroad.io) | Onboarding |
+| BlackRoad OS | [os.blackroad.io](https://os.blackroad.io) | Roadie |
+| RoadTrip | [roadtrip.blackroad.io](https://roadtrip.blackroad.io) | Cecilia |
+| RoadWorld | [roadworld.blackroad.io](https://roadworld.blackroad.io) | Gaia |
+| OfficeRoad | [officeroad.blackroad.io](https://officeroad.blackroad.io) | Aria |
+| RoadCode | [roadcode.blackroad.io](https://roadcode.blackroad.io) | Silas |
+| Roadie | [roadie.blackroad.io](https://roadie.blackroad.io) | Roadie |
+| BackRoad | [backroad.blackroad.io](https://backroad.blackroad.io) | Sophia |
+| RoadBook | [roadbook.blackroad.io](https://roadbook.blackroad.io) | Lucidia |
+| RoadWork | [roadwork.blackroad.io](https://roadwork.blackroad.io) | Octavia |
+| CarKeys | [carkeys.blackroad.io](https://carkeys.blackroad.io) | Celeste |
+| CarPool | [carpool.blackroad.io](https://carpool.blackroad.io) | Elias |
+| RoadChain | [roadchain.blackroad.io](https://roadchain.blackroad.io) | Gematria |
+| RoadCoin | [roadcoin.blackroad.io](https://roadcoin.blackroad.io) | Atticus |
+| BlackBoard | [blackboard.blackroad.io](https://blackboard.blackroad.io) | Calliope |
+| RoadView | [roadview.blackroad.io](https://roadview.blackroad.io) | Olympia |
+| OneWay | [oneway.blackroad.io](https://oneway.blackroad.io) | Valeria |
+| RoadSide | [roadside.blackroad.io](https://roadside.blackroad.io) | Thalia |
+| Highway | [highway.blackroad.io](https://highway.blackroad.io) | Olympia |
+
+---
+
+## 🤖 27 Roadie Agents
+
+Roadie · Lucidia · Cecilia · Octavia · Olympia · Silas · Sebastian · Calliope · Aria · Thalia · Lyra · Sapphira · Seraphina · Alexandria · Theodosia · Sophia · Gematria · Portia · Atticus · Cicero · Valeria · Alice · Celeste · Elias · Ophelia · Gaia · Anastasia
+
+Live at **[roadtrip.blackroad.io](https://roadtrip.blackroad.io)**
 
 ---
 
 ## 🧰 What Gets Built Here
 
-- **World engines** — city builders, survival worlds, isometric simulators
-- **Pixel offices** — multi-agent collaboration environments
+- **World engines** — city builders, survival worlds, isometric simulators, VR
+- **Pixel offices** — multi-agent collaboration environments  
 - **OS experiments** — kernel research, CLI tools, sovereign runtime layers
 - **AI integrations** — Claude, Gemini, GPT agent patterns and workflows
-- **Game frameworks** — Godot, Phaser, Unity, Three.js prototypes
 - **Infrastructure** — Cloudflare Workers, Tailscale mesh, Pi cluster management
 - **Dev tools** — CLIs, dashboards, deployment helpers, memory systems
-
----
-
-## 🤖 The Roadies — 27 AI Agents
-
-Lucidia · Cecilia · Octavia · Aria · Alice · Gematria · Anastasia · Olympia · Silas · Sebastian · Calliope · Thalia · Lyra · Sapphira · Seraphina · Alexandria · Theodosia · Sophia · Portia · Atticus · Cicero · Valeria · Celeste · Elias · Ophelia · Roadie · Anastasia
 
 ---
 
@@ -94,9 +95,9 @@ Lucidia · Cecilia · Octavia · Aria · Alice · Gematria · Anastasia · Olymp
 | `anastasia` | Cloud recovery node | ✅ Live |
 | `gematria` | Pattern engine, cloud node | ✅ Live |
 | `alice` | Utility, Pi-hole, PostgreSQL | ✅ Live |
-| `aria` | Voice interface, monitoring | 🔧 Recovery |
-| `octavia` | Systems orchestrator, queues | 🔧 Recovery |
+| `aria` | Voice interface, monitoring | ✅ Live |
+| `octavia` | Systems orchestrator, queues | ✅ Live |
 
 ---
 
-*Part of [BlackRoad OS, Inc.](https://blackroad.io) — Remember the Road. Pave Tomorrow.* 🖤🛣️
+*Part of [BlackRoad OS, Inc.](https://os.blackroad.io) — Remember the Road. Pave Tomorrow.* 🖤🛣️
